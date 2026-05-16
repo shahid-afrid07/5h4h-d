@@ -53,8 +53,7 @@
 
 ## 📈 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid07&layout=compact&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid07&layout=compact&theme=tokyonight" />
 ---
 
 ## ✨ Current Focus
